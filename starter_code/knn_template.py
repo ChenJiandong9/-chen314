@@ -75,3 +75,4 @@ def classify_person():
 
 # —— 死循环调用 ——
 if __name__ == "__main__":
+    print("Hello, World!")
